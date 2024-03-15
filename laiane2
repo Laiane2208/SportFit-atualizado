@@ -102,20 +102,25 @@
     </div>
 
     <div class="product">
-        <img src="URL_DA_IMAGEM_PRODUTO_4" alt="Produto 4">
+        <img src="https://m.media-amazon.com/images/I/51ryWSlCb8L._AC_SX466_.jpg" alt="Produto 4">
         <div class="product-details">
+            <h3>Camisa Térmica Masculina Segunda Pele Proteção Uv</h3>
             <div class="price">R$ 49.99</div>
-            <h3>Produto 4</h3>
-            <p>Descrição do Produto 4.</p>
+        <p>Extremamente confortável, flexível e se ajusta no corpo.</p>
+        <p> Não é necessário passar e não cria bolinhas.</p>
+        <p> Não desbota e não desfia.</p>
+        <p> Melhor qualidade de tecido para o conforto.</p>
         </div>
     </div>
 
     <div class="product">
-        <img src="URL_DA_IMAGEM_PRODUTO_5" alt="Produto 5">
+        <img src="https://m.media-amazon.com/images/I/515dnG4gpFL._AC_SX569_.jpg" alt="Produto 5">
         <div class="product-details">
-            <div class="price">R$ 59.99</div>
-            <h3>Produto 5</h3>
-            <p>Descrição do Produto 5.</p>
+            <h3>Shorts Masculino 2 em 1 Fitness Bermuda Para Treino</h3>
+            <div class="price">R$ 54,30</div>
+            <p> O design é construído com um exterior de shorts solto e um interior de shorts legging, ambos feitos de 100% poliéster de alta qualidade.</p>
+            <p> O exterior do shorts é espaçoso e arejado, proporcionando liberdade de movimento e permitindo a circulação de ar, ideal para manter você fresco durante os treinos mais intensos. </p>
+            <p>Com um corte moderno e uma cintura elástica confortável, ele oferece um ajuste seguro e estiloso. </p>
         </div>
     </div>
 
