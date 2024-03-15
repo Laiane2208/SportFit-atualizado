@@ -74,7 +74,9 @@
         <div class="product-details">
             <h3>Conjunto Fitness Básico Academia - Azul</h3>
             <div class="price">R$ 89,90</div>
-            <p>Nosso conjunto Basic é confeccionado em tecido poliéster com um toque mais seco e firme. Para você se sentir ainda mais segura, ele possui forro duplo no bumbum e no top, garantindo assim um look completo com zero transparência. Tamanhos do P ao GG</p>
+            <p>Nosso conjunto Basic é confeccionado em tecido poliéster com um toque mais seco e firme.</p>
+            <p> Para você se sentir ainda mais segura, ele possui forro duplo no bumbum e no top, garantindo assim um look completo com zero transparência.</p> 
+            <p>Tamanhos do P ao GG</p>
         </div>
     </div>
 
@@ -83,16 +85,19 @@
         <div class="product-details">
             <h3>Shorts Push Up Selene Sport Fitness Basico Sem Costura</h3>
             <div class="price">R$ 59,99</div>
-            <p>Shorts forro duplo, máximo conforto aos nossos(as) clientes. técnologia modeladora dos glúteos e três faixas de silicone na cintura previnindo aparecer a parte interna do shorts. Veste do P ao G. </p>
+            <p>Shorts forro duplo, máximo conforto aos nossos(as) clientes.</p> 
+            <p> técnologia modeladora dos glúteos e três faixas de silicone na cintura previnindo aparecer a parte interna do shorts.</p> 
+            <p>Veste do P ao G. </p>
         </div>
     </div>
 
     <div class="product">
-        <img src="URL_DA_IMAGEM_PRODUTO_3" alt="Produto 3">
+        <img src="https://cea.vtexassets.com/arquivos/ids/58340690-1600-auto?v=638368894097000000&width=1600&height=auto&aspect=true" alt="Produto 3">
         <div class="product-details">
-            <div class="price">R$ 39.99</div>
-            <h3>Produto 3</h3>
-            <p>Descrição do Produto 3.</p>
+            <h3>top alça fina bojo removível esportivo ace verde militar</h3>
+             <div class="price">R$ 59.99</div>
+            <p>Top confeccionado em malha de poliamida. Modelo com caimento ajustado, decote em V, alças finas com reguladores, possui bojo removível e barra canelada.</p>
+            <p>Composição: 90% Poliamida, 10% Elastano.</p>
         </div>
     </div>
 
