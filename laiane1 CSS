@@ -1,0 +1,63 @@
+ <style>
+       p {
+            text-align: center
+        
+        }
+         </style>
+
+     </head>
+
+    <body>
+        <h1 style="text-align: center; background: #eb1f63;" >Sobre a Sport Fit</h1>
+
+        <p >Localizada no coração da cidade a <strong>Sport Fit</strong> traz para o mercado o que há de melhor para o seu estilo esportivo. Fundada em 2023, a Spor Fit já é destaque na cidade e conquista novos clientes a cada dia.</p>
+    
+        <p style="font-size: 20px;"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+    
+        <p >Oferecemos roupas de alto padrão e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p> 
+    </body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Produtos</title>
+    <style>
+        .product {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+            overflow: hidden;
+        }
+
+        .product img {
+            max-width: 20%;
+            height: auto;
+            float: left;
+            margin-right: 10px;
+        }
+
+        .product-details {
+            overflow: hidden;
+        }
+
+        /* Alinha o texto à esquerda */
+        .product-details h3,
+        .product-details p,
+        .product-details .price {
+            text-align: left;
+        }
+
+        /* Adiciona espaço entre o preço e a descrição */
+        .product-details .price {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
